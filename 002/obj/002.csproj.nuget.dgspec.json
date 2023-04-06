@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sherbinin\\Desktop\\УЧЕБА\\1четверть Язык программировария\\Sem_01\\002\\002.csproj": {}
+    "C:\\Users\\sherbinin\\Desktop\\УЧЕБА\\1четверть Язык программировария\\SEM_01\\002\\002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sherbinin\\Desktop\\УЧЕБА\\1четверть Язык программировария\\Sem_01\\002\\002.csproj": {
+    "C:\\Users\\sherbinin\\Desktop\\УЧЕБА\\1четверть Язык программировария\\SEM_01\\002\\002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sherbinin\\Desktop\\УЧЕБА\\1четверть Язык программировария\\Sem_01\\002\\002.csproj",
+        "projectUniqueName": "C:\\Users\\sherbinin\\Desktop\\УЧЕБА\\1четверть Язык программировария\\SEM_01\\002\\002.csproj",
         "projectName": "002",
-        "projectPath": "C:\\Users\\sherbinin\\Desktop\\УЧЕБА\\1четверть Язык программировария\\Sem_01\\002\\002.csproj",
+        "projectPath": "C:\\Users\\sherbinin\\Desktop\\УЧЕБА\\1четверть Язык программировария\\SEM_01\\002\\002.csproj",
         "packagesPath": "C:\\Users\\sherbinin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sherbinin\\Desktop\\УЧЕБА\\1четверть Язык программировария\\Sem_01\\002\\obj\\",
+        "outputPath": "C:\\Users\\sherbinin\\Desktop\\УЧЕБА\\1четверть Язык программировария\\SEM_01\\002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sherbinin\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -15,5 +15,5 @@ if (max>numberb)
 }
 else 
 {
-    System.Console.WriteLine("max=numberb");
-} 
+    System.Console.WriteLine("max=" + numberb);
+}
